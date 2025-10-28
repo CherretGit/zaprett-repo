@@ -136,339 +136,340 @@
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-hosts-repo/main/strategies/byedpi/strategy-default-hosts.txt"
   },
   {
-    "name": "strategy-fix-v1.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "63250640ea1e429a6e4c4f1073ce927041ddec46e3641f9e5f3a453ae314f0b5",
+    "name": "strategy-discord-fix.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "37d918a735b94d3b573eda6adced550fc938053bff5405f563b62282e8952864",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-fix-v1.txt"
-  },
-  {
-    "name": "strategy-UltimateFix.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "722809bb0b741e66e0cac554a41028d025b1463c4e0957b626772bedfed30c12",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix.txt"
-  },
-  {
-    "name": "strategy-general-ALT4.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "0f643d834a86e0a4ee8ebfa212b4e0134981f43727c4d24a567318aecf7e1c5a",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT4.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-ALT-v3.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "c59c9f7f5909eb484369d85cc918d1c31ca0060b21b770d05c803d578eb2a27f",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v3.txt"
-  },
-  {
-    "name": "strategy-GeneralFix-ALT3.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "22f3253612a69ddae4cdf2941cc45ef60200f88521f287a2ba08920dc57eb58b",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-GeneralFix-ALT3.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-Universal-v3.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "63250640ea1e429a6e4c4f1073ce927041ddec46e3641f9e5f3a453ae314f0b5",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-Universal-v3.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-ALT-v9.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "45d3a8bd876ceebefc9b7cc93385f3ef3b008c849ee31a0926cc5dce820c0172",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v9.txt"
-  },
-  {
-    "name": "strategy-fix-v2.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "df63b60f9b5b12012691ce6ab78aa4c02627499ad97fb1f2bef12c310b8ec282",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-fix-v2.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-ALT-v5.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "78c476e721a621b8a436c67decdb372258d569cc02f01865180526a2ffa69d93",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v5.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-ALT-v2.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "474d54df315c45fea45587769d6ba6363d70c70d5d6d6d2046851ed0fbb2e213",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v2.txt"
-  },
-  {
-    "name": "strategy-GeneralFix-ALT4.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "d89009ab1c2b9e63ab06081e4a005a5a376c4541f511fc4f2560f889f5d78fe5",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-GeneralFix-ALT4.txt"
-  },
-  {
-    "name": "strategy-general-MGTS.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "a42cb2d60dddd4937c65ac59586b3782fff7e493e772e322942b8d5496747052",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-MGTS.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-ALT-v8.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "7af585d82ecc6806f74b6a4775ff5e0fb344188ff0d2ac03dd03734bd066ec5e",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v8.txt"
-  },
-  {
-    "name": "strategy-general-ALT2.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "9ad6247690062ab7db33f8d211249b09b5640e789f68a26d68681f9bb1b49022",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT2.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-Universal-v2.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "b2a19a48833276652793916952a7f68a14884f4db3eb154cad5a0f7c4c7c3eff",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-Universal-v2.txt"
-  },
-  {
-    "name": "strategy-general-ALT6.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "e255c4324ac1be2b61856c12b6204eef7e6b60735ebc50e257b9b3bb8526f034",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT6.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-ALT-v4.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "c02d8ceb4f0dd37df0b62d1f22202de9fed7ef168b18c2f4a3e973b3e7596e16",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v4.txt"
-  },
-  {
-    "name": "strategy-general-ALT3.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "a3674ec3d3b3d3b99275f1b6e26d7174c52d41089c842777de673b5158622580",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT3.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-mgts.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "fcc8eb2b6cea4f2463fc49e79b82238b922015feb1289f259d4dd96678c317de",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-mgts.txt"
-  },
-  {
-    "name": "strategy-GeneralFix-ALT.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "d857080fab6225380024582fe5d28649012bfd4d58da4a192ca9e740fa6c9bc0",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-GeneralFix-ALT.txt"
-  },
-  {
-    "name": "strategy-YoutubeFix-ALT.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "efd59bb314d61742420c64420beec510808be747e08740f492e9c5cedb37ea28",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-YoutubeFix-ALT.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-ALT-v6.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "c9e5105cdc57dc0da58e1675147b864f387e1b2dec083b80573b33b740d777a9",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v6.txt"
-  },
-  {
-    "name": "strategy-general-ALT5.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "5f28321f3e799925d8e0e1de875ad5cb8a0d1d51f083f6ed007a53fd5830c155",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT5.txt"
-  },
-  {
-    "name": "strategy-general-ALT.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "49f9f439bcddc9c1fdb1f5dd2875f94a9fd3efca4026f15891ec5a5130ab15fd",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT.txt"
-  },
-  {
-    "name": "strategy-general-MGTS2.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "424e4588e96fab8011de469cbc44e458cf195020c9e7b522f0a1fa0767f00d16",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-MGTS2.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-ALT.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "172f83a79ab69779b9346e2b8a623c4c82446132a3fec666b9edc1bff826fe7e",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT.txt"
-  },
-  {
-    "name": "strategy-discordfix-ALT2.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "5bc890a94f17bba370d1984db1e0c6b700b801c616d80753ce4127c87cb2e8a8",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discordfix-ALT2.txt"
-  },
-  {
-    "name": "strategy-UltimateFix-Universal.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "a454b00f00d702b0d60173a14606ff33817d7aaa7619bf8ceefec1531508988b",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-Universal.txt"
-  },
-  {
-    "name": "strategy-preset-russia.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "77db3c4f4b80d0d1859a8e4cfea28768fe3d49e08dd549435ddbb4c64f5ab9ee",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-preset-russia.txt"
-  },
-  {
-    "name": "strategy-general-ALT7.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "463add1eabc2e976a3b5f7c8fbf33ca6d27e46981db8ce8a4da190d4e267646a",
-    "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT7.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discord-fix.txt"
   },
   {
     "name": "strategy-discord.txt",
-    "author": "не указано",
-    "description": "не указано",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
     "hash": "7289ab043ff608c1440c57e34885e5337175d913d09d05c3e917ff824991204b",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discord.txt"
   },
   {
-    "name": "strategy-RussiaFix.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "77db3c4f4b80d0d1859a8e4cfea28768fe3d49e08dd549435ddbb4c64f5ab9ee",
+    "name": "strategy-discordfix-ALT.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "2f1194add08ce5f462ee0b6ab6693b204d9703efccbe20c7183b10096b3245c1",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-RussiaFix.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discordfix-ALT.txt"
   },
   {
-    "name": "strategy-GeneralFix.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "37d918a735b94d3b573eda6adced550fc938053bff5405f563b62282e8952864",
+    "name": "strategy-discordfix-ALT2.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "5bc890a94f17bba370d1984db1e0c6b700b801c616d80753ce4127c87cb2e8a8",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-GeneralFix.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discordfix-ALT2.txt"
+  },
+  {
+    "name": "strategy-discordfix-MGTS.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "ae01a581e32627a94ce373efb09dfddaedb3863b0bacef3f039607734baff122",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discordfix-MGTS.txt"
+  },
+  {
+    "name": "strategy-fix-v1.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "63250640ea1e429a6e4c4f1073ce927041ddec46e3641f9e5f3a453ae314f0b5",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-fix-v1.txt"
+  },
+  {
+    "name": "strategy-fix-v2.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "df63b60f9b5b12012691ce6ab78aa4c02627499ad97fb1f2bef12c310b8ec282",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-fix-v2.txt"
   },
   {
     "name": "strategy-fix-v3.txt",
-    "author": "не указано",
-    "description": "не указано",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
     "hash": "eaeb87866eefd291302743682f2f211bfae861214bad4e206b986ac1f7e647d2",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-fix-v3.txt"
   },
   {
+    "name": "strategy-General-OLD.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "f3c413f9080b2c31ad9ec521b23349f46086dd09f96e4dc64e25509e248f353d",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-General-OLD.txt"
+  },
+  {
+    "name": "strategy-GeneralFix-ALT.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "d857080fab6225380024582fe5d28649012bfd4d58da4a192ca9e740fa6c9bc0",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-GeneralFix-ALT.txt"
+  },
+  {
+    "name": "strategy-GeneralFix-ALT3.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "22f3253612a69ddae4cdf2941cc45ef60200f88521f287a2ba08920dc57eb58b",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-GeneralFix-ALT3.txt"
+  },
+  {
+    "name": "strategy-GeneralFix-ALT4.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "d89009ab1c2b9e63ab06081e4a005a5a376c4541f511fc4f2560f889f5d78fe5",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-GeneralFix-ALT4.txt"
+  },
+  {
+    "name": "strategy-GeneralFix.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "37d918a735b94d3b573eda6adced550fc938053bff5405f563b62282e8952864",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-GeneralFix.txt"
+  },
+  {
+    "name": "strategy-general-ALT.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "49f9f439bcddc9c1fdb1f5dd2875f94a9fd3efca4026f15891ec5a5130ab15fd",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT.txt"
+  },
+  {
+    "name": "strategy-general-ALT2.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "9ad6247690062ab7db33f8d211249b09b5640e789f68a26d68681f9bb1b49022",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT2.txt"
+  },
+  {
+    "name": "strategy-general-ALT3.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "a3674ec3d3b3d3b99275f1b6e26d7174c52d41089c842777de673b5158622580",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT3.txt"
+  },
+  {
+    "name": "strategy-general-ALT4.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "0f643d834a86e0a4ee8ebfa212b4e0134981f43727c4d24a567318aecf7e1c5a",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT4.txt"
+  },
+  {
+    "name": "strategy-general-ALT5.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "5f28321f3e799925d8e0e1de875ad5cb8a0d1d51f083f6ed007a53fd5830c155",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT5.txt"
+  },
+  {
+    "name": "strategy-general-ALT6.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "e255c4324ac1be2b61856c12b6204eef7e6b60735ebc50e257b9b3bb8526f034",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT6.txt"
+  },
+  {
+    "name": "strategy-general-ALT7.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "463add1eabc2e976a3b5f7c8fbf33ca6d27e46981db8ce8a4da190d4e267646a",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-ALT7.txt"
+  },
+  {
+    "name": "strategy-general-alt8.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "b8518b9714d85765778a75122683f57d7a70c2eb6cd472832869ca51b24fbbfe",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-alt8.txt"
+  },
+  {
+    "name": "strategy-general-MGTS.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "a42cb2d60dddd4937c65ac59586b3782fff7e493e772e322942b8d5496747052",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-MGTS.txt"
+  },
+  {
+    "name": "strategy-general-MGTS2.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "424e4588e96fab8011de469cbc44e458cf195020c9e7b522f0a1fa0767f00d16",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-MGTS2.txt"
+  },
+  {
+    "name": "strategy-preset-russia.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "77db3c4f4b80d0d1859a8e4cfea28768fe3d49e08dd549435ddbb4c64f5ab9ee",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-preset-russia.txt"
+  },
+  {
+    "name": "strategy-RussiaFix.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "77db3c4f4b80d0d1859a8e4cfea28768fe3d49e08dd549435ddbb4c64f5ab9ee",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-RussiaFix.txt"
+  },
+  {
     "name": "strategy-UltimateFix-ALT-EXTENDED.txt",
-    "author": "не указано",
-    "description": "не указано",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
     "hash": "722809bb0b741e66e0cac554a41028d025b1463c4e0957b626772bedfed30c12",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-EXTENDED.txt"
   },
   {
     "name": "strategy-UltimateFix-ALT-v10.txt",
-    "author": "не указано",
-    "description": "не указано",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
     "hash": "ed3d0386f7a60727e52eec4493d6036c8252d9a98505ef67b36ee1630b71b210",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v10.txt"
   },
   {
+    "name": "strategy-UltimateFix-ALT-v2.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "474d54df315c45fea45587769d6ba6363d70c70d5d6d6d2046851ed0fbb2e213",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v2.txt"
+  },
+  {
+    "name": "strategy-UltimateFix-ALT-v3.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "c59c9f7f5909eb484369d85cc918d1c31ca0060b21b770d05c803d578eb2a27f",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v3.txt"
+  },
+  {
+    "name": "strategy-UltimateFix-ALT-v4.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "c02d8ceb4f0dd37df0b62d1f22202de9fed7ef168b18c2f4a3e973b3e7596e16",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v4.txt"
+  },
+  {
+    "name": "strategy-UltimateFix-ALT-v5.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "78c476e721a621b8a436c67decdb372258d569cc02f01865180526a2ffa69d93",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v5.txt"
+  },
+  {
+    "name": "strategy-UltimateFix-ALT-v6.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "c9e5105cdc57dc0da58e1675147b864f387e1b2dec083b80573b33b740d777a9",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v6.txt"
+  },
+  {
     "name": "strategy-UltimateFix-ALT-v7.txt",
-    "author": "не указано",
-    "description": "не указано",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
     "hash": "c168e1650ab266919b6916538b0e6c3a1a033b11aa47213e50784bf088ea6a0a",
     "type": "nfqws",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v7.txt"
   },
   {
-    "name": "strategy-general-alt8.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "b8518b9714d85765778a75122683f57d7a70c2eb6cd472832869ca51b24fbbfe",
+    "name": "strategy-UltimateFix-ALT-v8.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "7af585d82ecc6806f74b6a4775ff5e0fb344188ff0d2ac03dd03734bd066ec5e",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-general-alt8.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v8.txt"
   },
   {
-    "name": "strategy-discordfix-MGTS.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "ae01a581e32627a94ce373efb09dfddaedb3863b0bacef3f039607734baff122",
+    "name": "strategy-UltimateFix-ALT-v9.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "45d3a8bd876ceebefc9b7cc93385f3ef3b008c849ee31a0926cc5dce820c0172",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discordfix-MGTS.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT-v9.txt"
   },
   {
-    "name": "strategy-discord-fix.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "37d918a735b94d3b573eda6adced550fc938053bff5405f563b62282e8952864",
+    "name": "strategy-UltimateFix-ALT.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "172f83a79ab69779b9346e2b8a623c4c82446132a3fec666b9edc1bff826fe7e",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discord-fix.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-ALT.txt"
   },
   {
-    "name": "strategy-General-OLD.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "f3c413f9080b2c31ad9ec521b23349f46086dd09f96e4dc64e25509e248f353d",
+    "name": "strategy-UltimateFix-mgts.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "fcc8eb2b6cea4f2463fc49e79b82238b922015feb1289f259d4dd96678c317de",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-General-OLD.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-mgts.txt"
   },
   {
-    "name": "strategy-discordfix-ALT.txt",
-    "author": "не указано",
-    "description": "не указано",
-    "hash": "2f1194add08ce5f462ee0b6ab6693b204d9703efccbe20c7183b10096b3245c1",
+    "name": "strategy-UltimateFix-Universal-v2.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "b2a19a48833276652793916952a7f68a14884f4db3eb154cad5a0f7c4c7c3eff",
     "type": "nfqws",
-    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-discordfix-ALT.txt"
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-Universal-v2.txt"
+  },
+  {
+    "name": "strategy-UltimateFix-Universal-v3.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "63250640ea1e429a6e4c4f1073ce927041ddec46e3641f9e5f3a453ae314f0b5",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-Universal-v3.txt"
+  },
+  {
+    "name": "strategy-UltimateFix-Universal.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "a454b00f00d702b0d60173a14606ff33817d7aaa7619bf8ceefec1531508988b",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix-Universal.txt"
+  },
+  {
+    "name": "strategy-UltimateFix.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "722809bb0b741e66e0cac554a41028d025b1463c4e0957b626772bedfed30c12",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-UltimateFix.txt"
+  },
+  {
+    "name": "strategy-YoutubeFix-ALT.txt",
+    "author": "Snowy-Fluffy",
+    "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+    "hash": "efd59bb314d61742420c64420beec510808be747e08740f492e9c5cedb37ea28",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-YoutubeFix-ALT.txt"
   }
 ]
+
