@@ -1,0 +1,1 @@
+-a4 -o2 --auto=t,r,a,s -d2 -o1 -a2 -An -f-1 -a2 -Ar,s -o0+sm -a2 -At -r1+s -a2 --fake -1 --ttl 10 -a2 -An

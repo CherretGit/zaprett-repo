@@ -1,0 +1,1 @@
+-n google.com -Qr -f-204 -a1 -As -s1:3+sm -a1 -As -s5:8+sm -a1 -As -d3 -q7 -o2 -f-43 -f-80 -f-160 -r5 -Mh -As
