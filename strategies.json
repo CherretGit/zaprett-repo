@@ -502,5 +502,45 @@
     "hash": "a742e1485ec4f30da075602d4659e3504e754e817b2d0f1550b58b8e1e10e4fe",
     "type": "byedpi",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-youtube-fix-mts.txt"
+  },
+  {
+    "name": "strategy-test-speed-1.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "f7122efff1feda6a3decfbf58b6935da2e0b5b10ecaa1e19de199691a559bbed",
+    "type": "byedpi",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-test-speed-1.txt"
+  },
+  {
+    "name": "strategy-yt-ds-r34.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "7358d46f1a7008e40b61428e2c40ae9edd6d96f3ade3fe01788f7bae513c265e",
+    "type": "byedpi",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-yt-ds-r34.txt"
+  },
+  {
+    "name": "strategy-roblox.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "1288d9f7dd24b7693ead8a768bbc94c2847138cc065f6999cff79529f409f0e7",
+    "type": "byedpi",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-roblox.txt"
+  },
+  {
+    "name": "strategy-ds.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "2a02beb1b1c652db9e401af65b4e81f863ff4af24b53c9c1b859df7f971b7b92",
+    "type": "byedpi",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-ds.txt"
+  },
+  {
+    "name": "strategy-test-speed-2.txt",
+    "author": "не указано",
+    "description": "не указано",
+    "hash": "17cc9587296c365aa6a19098ac5eb71ba5b228db30e61b5ecb109f5d9e618b3a",
+    "type": "byedpi",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/byedpi/strategy-test-speed-2.txt"
   }
 ]
