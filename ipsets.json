@@ -60,7 +60,7 @@
     "description": "Ipset v4/v6 Amazon Web Services",
     "author": "Harikso",
     "hash": "0a5ce87a9a0b96fa4cb1d4f9fb8e1eef43e59881d9ec527d41ff00f1a271e0d3",
-    "type": "ipset"
+    "type": "ipset",
     "url": "https://github.com/CherretGit/zaprett-repo/raw/refs/heads/main/ipsets/include/ipset-aws.txt"
   }
 ]
