@@ -1,0 +1,13 @@
+{
+  "scheme": 1,
+  "name": "ipset-telegram",
+  "type": "ipset",
+  "author": "@mewmrow",
+  "description": "Ipset'ы для нормальной работы Telegram",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/ipsets/include/ipset-telegram.txt",
+    "sha256": "87fba6771de3e6c62444a10bd6395132390d7b6dd0b25c1380ee1a02084e2dc6"
+  }
+}
+

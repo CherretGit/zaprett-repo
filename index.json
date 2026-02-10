@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "name": "ipset-cloudflare",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-cloudflare.json"
+    },
+    {
+      "name": "ipset-telegram",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-telegram.json"
+    }
+  ]
+}
+
