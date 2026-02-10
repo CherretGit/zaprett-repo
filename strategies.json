@@ -72,6 +72,22 @@
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-alt8.txt"
   },
   {
+    "name": "strategy-alt10.txt",
+    "author": "flowseal",
+    "description": "Порт стратегии alt10 от flowseal",
+    "hash": "c45b1acdc2b755749258882d50f7f9d91592d3f9bfb76cdbcba5dc25113df4f0",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-alt10.txt"
+  },
+  {
+    "name": "strategy-alt11.txt",
+    "author": "flowsel(портировал Adwhweu)",
+    "description": "Alt11 из zapret-discord-youtube",
+    "hash": "53ed19dd2db78cd86699a680e33b8eb7424b93683b52ec6232d1967ca785ded1",
+    "type": "nfqws",
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/strategies/nfqws/strategy-alt11.txt"
+  },
+  {
     "name": "strategy-fake-tls-auto-alt.txt",
     "author": "flowseal",
     "description": "Стратегия fake-tls-auto-alt из репозитория zapret для Windows",

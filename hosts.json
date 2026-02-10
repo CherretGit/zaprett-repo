@@ -27,7 +27,7 @@
     "name": "list-general.txt",
     "description": "Общие домены",
     "author": "zaprett-devs",
-    "hash": "0ac003f9d9644fa5a5240f2789ceb4d7d477aae8185cdffe0285d660c31ca2d2",
+    "hash": "0632f271349ab11ef16494c3938a13db11f011fb5e158e7c025bf6e53613f470",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/lists/include/list-general.txt"
   },
@@ -139,7 +139,7 @@
     "name": "list-roblox.txt",
     "author": "zaprett-devs and @mewmrow",
     "description": "Домены Roblox",
-    "hash": "fd778c29b60ca43d6f2c07745cb37ab514c846cfa9ead3d5a0f5015187b3848c",
+    "hash": "6b3b6fc148d3b0659f645c348a7890ff674f53e75f9d7768a21bf1ef1d0e3e8e",
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
   }
