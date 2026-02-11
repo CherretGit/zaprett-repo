@@ -143,4 +143,11 @@
     "type": "list",
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/main/lists/include/list-roblox.txt"
   }
+  {
+  "name": "название вашего файла (это поле менять не нужно)",
+  "author": "omerax",
+  "description": "описание файла",
+  "hash": "это поле менять не нужно",
+  "url": "это поле менять не нужно"
+  }
 ]
