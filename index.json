@@ -3,10 +3,12 @@
   "items": [
     {
       "name": "ipset-cloudflare",
+      "type": "ipset",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-cloudflare.json"
     },
     {
       "name": "ipset-telegram",
+      "type": "ipset",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-telegram.json"
     }
   ]
