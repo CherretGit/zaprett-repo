@@ -1,7 +1,6 @@
 {
   "scheme": 1,
   "name": "ipset-cloudflare",
-  "type": "ipset",
   "author": "zaprett-devs",
   "description": "Ipset CloudFlare",
   "dependencies": [
