@@ -1,7 +1,6 @@
 {
   "scheme": 1,
   "name": "ipset-telegram",
-  "type": "ipset",
   "author": "@mewmrow",
   "description": "Ipset'ы для нормальной работы Telegram",
   "dependencies": [],
