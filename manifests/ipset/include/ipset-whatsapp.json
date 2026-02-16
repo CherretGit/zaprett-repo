@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "ipset-whatsapp",
+  "author": "@mewmrow",
+  "description": "Ipset'ы для работы whatsapp (отправляет сообщения не сразу)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/ipsets/include/ipset-whatsapp.txt",
+    "sha256": "e64823475402b86935abc8dbe88e8973a373e1b3779faeeefbc2eb01c9693533"
+  }
+}
+

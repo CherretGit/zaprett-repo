@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-matrix",
+  "author": "zaprett-devs",
+  "description": "Домены Matrix",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-matrix.txt",
+    "sha256": "832b87a595b6cc959f1621b571dd46c6f844ef262e56d3930b98d3e4336a14df"
+  }
+}

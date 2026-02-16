@@ -1,0 +1,5 @@
+--filter-udp=443 $hostlist --dpi-desync=fake --dpi-desync-repeats=6 --dpi-desync-fake-quic=${zaprettdir}/bin/quic_initial_www_google_com.bin --new 
+--filter-udp=50000-65535 $ipset --dpi-desync=fake --dpi-desync-any-protocol --dpi-desync-cutoff=d3 --dpi-desync-repeats=6 --dpi-desync-fake-quic=${zaprettdir}/bin/quic_initial_www_google_com.bin --new 
+--filter-udp=50000-65535 $hostlist --dpi-desync=fake,disorder2 --dpi-desync-any-protocol --dpi-desync-cutoff=n5 --dpi-desync-repeats=10 --new 
+--filter-tcp=80 $hostlist --dpi-desync=fake,multisplit --dpi-desync-autottl=2 --dpi-desync-fooling=md5sig --new 
+--filter-tcp=443 $hostlist --dpi-desync=multisplit --dpi-desync-repeats=2 --dpi-desync-split-seqovl=681 --dpi-desync-split-pos=1 --dpi-desync-split-seqovl-pattern=${zaprettdir}/bin/tls_clienthello_www_google_com.bin --new 

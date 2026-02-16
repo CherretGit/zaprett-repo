@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "list-exclude-yandex",
+  "author": "@mewmrow",
+  "description": "Яндекс домены для черного списка",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/exclude/list-exclude-yandex.txt",
+    "sha256": "a364c7819fce04213775ebc8a2f371322adefe47d2cebd38400719f088266951"
+  }
+}
+

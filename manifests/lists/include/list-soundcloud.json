@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-soundcloud",
+  "author": "zaprett-devs",
+  "description": "Домены SoundCloud",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-soundcloud.txt",
+    "sha256": "118ffd9f58e3beb284c99caed9780bf913a992f5b8b2180ae386cab7134f3e81"
+  }
+}

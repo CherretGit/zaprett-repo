@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "list-exclude-x5group",
+  "author": "@mewmrow",
+  "description": "X5group домены для черного списка",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/exclude/list-exclude-x5group.txt",
+    "sha256": "04bc8730829a9fd6c500fa09797b62286c6bbf934f9d82b2a0718ec3982ec3cb"
+  }
+}
+

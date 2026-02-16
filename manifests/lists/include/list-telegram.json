@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-telegram",
+  "author": "zaprett-devs & @mewmrow",
+  "description": "Домены Telegram",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-telegram.txt",
+    "sha256": "63a3ff6a106c142138b3bd65609fdbd9f44533c54c6689e5cf2a659826a5c777"
+  }
+}

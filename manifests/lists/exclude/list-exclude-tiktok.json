@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "list-exclude-tiktok",
+  "author": "dotFelixan",
+  "description": "Домены TikTok для черного списка",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/exclude/list-exclude-tiktok.txt",
+    "sha256": "180a32689ed04ebde1163428289334f9e0243052cfe6e33435c4e279a3fc03b7"
+  }
+}
+

@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "ipset-exclude-yandex.",
+  "author": "@mewmrow",
+  "description": "Ipset'ы для чёрного списка",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/ipsets/exclude/ipset-exclude-yandex.txt",
+    "sha256": "955bd7c2e0d935e6296c291d28d01a5a43f6f15c4e0adffdec1759ef7233442a"
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-rutracker",
+  "author": "zaprett-devs",
+  "description": "Домены RuTracker",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-rutracker.txt",
+    "sha256": "82f953b44eda73bf3319c99e8cfab572ce498d68dc7692ad0bcdae3b8256c9ed"
+  }
+}

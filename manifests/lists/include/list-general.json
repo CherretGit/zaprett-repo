@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-general",
+  "author": "zaprett-devs",
+  "description": "Общие домены",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-general.txt",
+    "sha256": "885ca8820fb658b4e9c4332b1b1b6735b936c4c8e97733441dd686f5f9c7d4ef"
+  }
+}

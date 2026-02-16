@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-roblox",
+  "author": "zaprett-devs and @mewmrow",
+  "description": "Домены Roblox",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-roblox.txt",
+    "sha256": "6b3b6fc148d3b0659f645c348a7890ff674f53e75f9d7768a21bf1ef1d0e3e8e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-discord",
+  "author": "zaprett-devs",
+  "description": "Домены Discord",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-discord.txt",
+    "sha256": "13a60977a4b6fe0fd053bab4a8f3c73790ce20ea5eedc6eb788b56d8431a0e9a"
+  }
+}

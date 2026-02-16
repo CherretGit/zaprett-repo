@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-cloudflare",
+  "author": "zaprett-devs",
+  "description": "Домены Cloudflare",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-cloudflare.txt",
+    "sha256": "243458a980b1762033e565fb339dc7f29c4dccb2f74a035e1bd7bb796e6446c6"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "ipset-exclude-x5group.",
+  "author": "@mewmrow",
+  "description": "Ipset'ы для чёрного списка",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/ipsets/exclude/ipset-exclude-x5group.txt",
+    "sha256": "a34a1bc0976fb76674f5de78565d42bc340b8d4f42bcdb0f2d28b32c37bb8bba"
+  }
+}
+

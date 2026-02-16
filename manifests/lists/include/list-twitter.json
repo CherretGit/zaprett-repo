@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-twitter",
+  "author": "zaprett-devs",
+  "description": "Домены Twitter",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-twitter.txt",
+    "sha256": "979d5471c125de3c3435a3640f12fb24f0986fea162ddef90a4d9e6e2f53f9e3"
+  }
+}

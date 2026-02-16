@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "ipset-aws",
+  "author": "Harikso",
+  "description": "Ipset v4/v6 Amazon Web Services",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/ipsets/include/ipset-aws.txt",
+    "sha256": "0a5ce87a9a0b96fa4cb1d4f9fb8e1eef43e59881d9ec527d41ff00f1a271e0d3"
+  }
+}
+

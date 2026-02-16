@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-meta-services",
+  "author": "@XZY18RUS",
+  "description": "Домены Meta (Facebook, Instagram и т.п.)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-meta-services.txt",
+    "sha256": "e14376ee40c95f479ac33d89c7f091e5842764185b2aa5a94c21b2a5bb641c78"
+  }
+}

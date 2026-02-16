@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-extended",
+  "author": "zaprett-devs",
+  "description": "Почти всё, что РКН когда-либо блокировал",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-extended.txt",
+    "sha256": "5c7e12310342a89d1aa69afc00f46c17d10d261790c5e029a83cc0c498fb148aa"
+  }
+}

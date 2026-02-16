@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "list-exclude-general",
+  "author": "zaprett-devs and our community",
+  "description": "Общие домены для черного списка",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/exclude/list-exclude-general.txt",
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  }
+}
+

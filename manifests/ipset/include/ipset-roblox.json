@@ -1,0 +1,12 @@
+{
+  "scheme": 1,
+  "name": "ipset-roblox",
+  "author": "@mewmrow",
+  "description": "Ipset Roblox",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/ipsets/include/ipset-roblox.txt",
+    "sha256": "9b35fd1eef1cce9ef3fe264f90a904c39b469f43b883a6c509a87039b1d39394"
+  }
+}
+

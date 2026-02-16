@@ -1,0 +1,14 @@
+{
+  "scheme": 1,
+  "name": "ipset-cloudflare",
+  "author": "zaprett-devs",
+  "description": "Ipset CloudFlare",
+  "dependencies": [
+    "сюда впихнуть домены не забыть!!!"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/ipset/include/ipset-cloudflare.txt",
+    "sha256": "106714aed888f39b5f7b5342447a3aca5d06eaeda7b95d9995f0cffdedf696c3"
+  }
+}
+

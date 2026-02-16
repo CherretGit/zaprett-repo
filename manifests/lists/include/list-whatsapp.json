@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "list-whatsapp",
+  "author": "@mewmrow",
+  "description": "Домены whatsapp (отправляет сообщения не сразу)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/lists/include/list-whatsapp.txt",
+    "sha256": "128f8b14dbf49cc47ac97c7962efc7da76dc568ac0855b3bef090c832992eff6"
+  }
+}
