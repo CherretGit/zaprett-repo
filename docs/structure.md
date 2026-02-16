@@ -39,7 +39,7 @@
 
 ## JSON файлы
 **index.json**
-```
+```json
 {
   "schema": 1,
   "items": [
@@ -68,11 +68,11 @@
 | `ipset` и `ipset_exclude` | Ipset'ы |
 
 **manifest.json**
-```
+```json
 {
   "schema": 1,
   "name": "",
-  "version: "",
+  "version": "",
   "author": "",
   "description": "",
   "dependencies": [],
@@ -95,7 +95,7 @@
 
 # Пример
 index.json
-```
+```json
 {
   "schema": 1,
   "items": [
@@ -109,7 +109,7 @@ index.json
 ```
 
 strategy-sample.json
-```
+```json
 {
   "schema": 1,
   "name": "strategy-sample",
