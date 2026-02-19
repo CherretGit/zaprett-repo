@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "tls_clienthello_www_google_com",
+  "version": "1.0.0",
+  "author": "zaprett-devs",
+  "description": "Binary artifact: tls_clienthello_www_google_com",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/bin/tls_clienthello_www_google_com.bin",
+    "sha256": "e5938780152169f720383f80eabb309e9477369b83b5ec40cc137c397f862cde"
+  }
+}

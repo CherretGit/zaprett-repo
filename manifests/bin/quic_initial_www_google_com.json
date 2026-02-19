@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "quic_initial_www_google_com",
+  "version": "1.0.0",
+  "author": "zaprett-devs",
+  "description": "Binary artifact: quic_initial_www_google_com",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/bin/quic_initial_www_google_com.bin",
+    "sha256": "f4589c57749f956bb30538197a521d7005f8b0a8723b4707e72405e51ddac50a"
+  }
+}

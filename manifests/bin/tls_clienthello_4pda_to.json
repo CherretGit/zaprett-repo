@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "tls_clienthello_4pda_to",
+  "version": "1.0.0",
+  "author": "zaprett-devs",
+  "description": "Binary artifact: tls_clienthello_4pda_to",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/bin/tls_clienthello_4pda_to.bin",
+    "sha256": "eefeaf09dde8d69b1f176212541f63c68b314a33a335eced99a8a29f17254da8"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "tls_clienthello_max_ru",
+  "version": "1.0.0",
+  "author": "zaprett-devs",
+  "description": "Binary artifact: tls_clienthello_max_ru",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/bin/tls_clienthello_max_ru.bin",
+    "sha256": "e4a94cec50b3c048eb988a513ee28191e4d7544dd5f98a9bf94f37ee02d2568e"
+  }
+}
