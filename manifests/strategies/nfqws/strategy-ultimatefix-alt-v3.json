@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-ultimatefix-alt-v3",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-ultimatefix-alt-v3.txt",
+    "sha256": "400f28c171b538e5c186dc3740d5fe7d86665fc6ccef50e1dfb6b90cfd419ed4"
+  }
+}

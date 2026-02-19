@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-fix-v2",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-fix-v2.txt",
+    "sha256": "4875dadd338a38df4bacfaaefb93b9707e3e0ceba4c5770d357a001b387bbf0c"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-shizapret-md5sig-port",
+  "author": "sch-izo (Портировал dotFelixan)",
+  "description": "Стратегия shizapret из репозитория sch-izo/shizapret",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-shizapret-md5sig-port.txt",
+    "sha256": "20e28cc355311db3078d81e2034f04af0e1564358d5cef862147cc7c493c10ff"
+  }
+}

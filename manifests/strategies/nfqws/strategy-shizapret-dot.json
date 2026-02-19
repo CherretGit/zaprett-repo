@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-shizapret-dot",
+  "author": "sch-izo (Модифицировал dotFelixan)",
+  "description": "Модифицированная стратегия shizapret",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-shizapret-dot.txt",
+    "sha256": "8777235f7c4ad9d10f4eeff628ea98fff930210827b9d6b9acb69e370377383a"
+  }
+}

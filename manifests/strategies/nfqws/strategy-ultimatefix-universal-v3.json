@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-ultimatefix-universal-v3",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-ultimatefix-universal-v3.txt",
+    "sha256": "32994051af48a3af46606295f19783cb71897ea27685a587c006aa01384606eb"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-shizapret-alt-port",
+  "author": "sch-izo (Портировал dotFelixan)",
+  "description": "Стратегия shizapret из репозитория sch-izo/shizapret",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-shizapret-alt-port.txt",
+    "sha256": "414ce4a544a064e18255f68ff972e234f75079757bb9a2e1811978a438fc92c9"
+  }
+}

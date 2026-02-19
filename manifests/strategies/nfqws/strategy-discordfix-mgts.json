@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-discordfix-mgts",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-discordfix-mgts.txt",
+    "sha256": "673b5932134b1268e615604ab18e1c8b9cc45f25464352b9bebe6906c2d4bbf8"
+  }
+}

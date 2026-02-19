@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-russiafix",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-russiafix.txt",
+    "sha256": "42e682b1923182fa11ee11458e8fe2dc08989d78d6f4d5680ab7ef06cae8090c"
+  }
+}

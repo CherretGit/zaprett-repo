@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-alt7",
+  "author": "flowseal",
+  "description": "Стратегия alt7 из репозитория zapret для Windows",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-alt7.txt",
+    "sha256": "e54fff7f297c77d94f4929c0b26703eaf4c8d4fd049d13940a51b8799db3a50f"
+  }
+}

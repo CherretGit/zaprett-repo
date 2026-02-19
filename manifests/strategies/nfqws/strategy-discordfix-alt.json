@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-discordfix-alt",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-discordfix-alt.txt",
+    "sha256": "3b5647a22fe5a6e8df7d98f60791567ab46e18fad2a06d00971c64de7edf1d44"
+  }
+}

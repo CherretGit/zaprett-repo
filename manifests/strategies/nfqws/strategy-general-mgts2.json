@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-general-mgts2",
+  "author": "Snowy-Fluffy",
+  "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-general-mgts2.txt",
+    "sha256": "0a4293df775d07c09e054863457cc2a3eab62da7129a5379df03b998dd24def7"
+  }
+}

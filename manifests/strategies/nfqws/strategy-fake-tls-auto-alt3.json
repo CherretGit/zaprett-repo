@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-fake-tls-auto-alt3",
+  "author": "flowseal",
+  "description": "Стратегия fake-tls-auto-alt3 из репозитория zapret для Windows",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-fake-tls-auto-alt3.txt",
+    "sha256": "559ed9ad43704c6ebafaf6f5cd094611714774f843617ce87f86b9734c292646"
+  }
+}

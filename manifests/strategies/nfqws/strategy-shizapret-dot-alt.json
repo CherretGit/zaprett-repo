@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-shizapret-dot-alt",
+  "author": "sch-izo (Модифицировал dotFelixan)",
+  "description": "Стратегия shizapret из репозитория sch-izo/shizapret для Windows",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-shizapret-dot-alt.txt",
+    "sha256": "4c580bfc39b86a8499f1065668ed4a273c89eb67d97fd6d030235e1b7b8e5293"
+  }
+}
