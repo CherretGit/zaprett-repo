@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "author": "zaprett-devs",
   "description": "Стандартная стратегия",
-  "dependencies": [],
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-default.txt",
     "sha256": "381804344fa86c433cd942c7c9fc10b8ba3654e5876e8d220d0666881ae3c53a"

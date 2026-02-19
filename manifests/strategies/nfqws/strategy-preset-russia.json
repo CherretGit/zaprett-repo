@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "author": "Snowy-Fluffy",
   "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-  "dependencies": [],
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-preset-russia.txt",
     "sha256": "71836b0c8dec1f4301a8a3f3f1cc0c01923e09657ec44cc330bc3156e86fc19a"

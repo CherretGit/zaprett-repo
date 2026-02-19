@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "author": "Snowy-Fluffy",
   "description": "Порт стратегии из репозитория Snowy-Fluffy (портировал HelloGames)",
-  "dependencies": [],
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-ultimatefix-alt.txt",
     "sha256": "2ae92f141ac49514254428832bc9dd1f760c3edaf26e041417faae2321077d21"

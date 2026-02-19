@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "author": "flowseal",
   "description": "Стратегия alt2 из репозитория zapret для Windows",
-  "dependencies": [],
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-alt2.txt",
     "sha256": "7b1935c71f4db7e287acc38b7c17269152a37cf7ea892ac183fa58aeea18cac5"

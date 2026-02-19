@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "author": "sch-izo (Модифицировал dotFelixan)",
   "description": "Модифицированная стратегия shizapret",
-  "dependencies": [],
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-shizapret-dot.txt",
     "sha256": "8777235f7c4ad9d10f4eeff628ea98fff930210827b9d6b9acb69e370377383a"

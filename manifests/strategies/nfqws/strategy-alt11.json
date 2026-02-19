@@ -4,7 +4,11 @@
   "version": "1.0.0",
   "author": "flowsel(портировал Adwhweu)",
   "description": "Alt11 из zapret-discord-youtube",
-  "dependencies": [],
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_max_ru.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-alt11.txt",
     "sha256": "53ed19dd2db78cd86699a680e33b8eb7424b93683b52ec6232d1967ca785ded1"

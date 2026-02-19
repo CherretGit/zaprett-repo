@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "author": "flowseal",
   "description": "Стратегия simple-fake-alt из репозитория zapret для Windows",
-  "dependencies": [],
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_www_google_com.json"
+  ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-simple-fake-alt.txt",
     "sha256": "d237358eb58044385f2ee99f52924a64e18bd09c3d2b1580e0c09c5b2059baae"

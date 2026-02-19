@@ -4,7 +4,9 @@
   "version": "1.0.0",
   "author": "flowseal",
   "description": "Стратегия alt3 из репозитория zapret для Windows",
-  "dependencies": [],
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json"
+  ],
   "artifact": {
     "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/nfqws/strategy-alt3.txt",
     "sha256": "9dc8f6fb10ac89e6188327461745261ef4eeb409003cf6da921831bdcce3619c"
