@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-ds",
+  "version": "1.0.0",
   "author": "Crazry Chel",
   "description": "Порт стратегии Crazy Chel (портировал HelloGames_.)",
   "dependencies": [],

@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-yt-ds-r34",
+  "version": "1.0.0",
   "author": "Tomon one",
   "description": "Порт стратегии Tomon one (портировал HelloGames_.)",
   "dependencies": [],

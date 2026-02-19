@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-roblox",
+  "version": "1.0.0",
   "author": "gorez polar",
   "description": "Порт стратегии gorez polar (портировал HelloGames_.)",
   "dependencies": [],

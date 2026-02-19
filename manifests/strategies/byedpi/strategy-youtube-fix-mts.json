@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-youtube-fix-mts",
+  "version": "1.0.0",
   "author": "g4me_ART",
   "description": "стратегии от автора Mag4me_ART (портировал PixelSymbols)",
   "dependencies": [],

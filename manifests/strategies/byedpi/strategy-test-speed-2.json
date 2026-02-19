@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-test-speed-2",
+  "version": "1.0.0",
   "author": "Роман Михневич",
   "description": "Порт стратегии Романа (портировал HelloGames_.)",
   "dependencies": [],

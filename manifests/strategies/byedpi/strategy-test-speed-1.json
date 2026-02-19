@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-test-speed-1",
+  "version": "1.0.0",
   "author": "Владимир",
   "description": "Порт стратегии Владимира (портировал HelloGames_.)",
   "dependencies": [],

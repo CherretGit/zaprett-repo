@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-ultimatefix",
+  "version": "1.0.0",
   "author": "roman5432990",
   "description": "стратегии от автора Роман (портировал PixelSymbols)",
   "dependencies": [],

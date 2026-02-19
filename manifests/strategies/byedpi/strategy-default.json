@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-default",
+  "version": "1.0.0",
   "author": "zaprett-devs",
   "description": "Стандартная стратегия",
   "dependencies": [],
