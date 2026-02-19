@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-fake-tls-auto-alt3",
+  "version": "1.0.0",
   "author": "flowseal",
   "description": "Стратегия fake-tls-auto-alt3 из репозитория zapret для Windows",
   "dependencies": [],

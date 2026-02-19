@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-alt2-roblox",
+  "version": "1.0.0",
   "author": "Hellogames_.",
   "description": "ALT 2 с обходом для роблокса",
   "dependencies": [],

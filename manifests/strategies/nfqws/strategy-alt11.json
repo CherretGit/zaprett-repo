@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-alt11",
+  "version": "1.0.0",
   "author": "flowsel(портировал Adwhweu)",
   "description": "Alt11 из zapret-discord-youtube",
   "dependencies": [],

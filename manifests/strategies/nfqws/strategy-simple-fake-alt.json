@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-simple-fake-alt",
+  "version": "1.0.0",
   "author": "flowseal",
   "description": "Стратегия simple-fake-alt из репозитория zapret для Windows",
   "dependencies": [],

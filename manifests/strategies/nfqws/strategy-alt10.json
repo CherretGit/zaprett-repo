@@ -1,6 +1,7 @@
 {
-  "scheme": 1,
+  "schema": 1,
   "name": "strategy-alt10",
+  "version": "1.0.0",
   "author": "flowseal",
   "description": "Порт стратегии alt10 от flowseal",
   "dependencies": [],
