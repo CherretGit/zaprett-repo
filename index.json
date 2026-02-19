@@ -2,15 +2,494 @@
   "schema": 1,
   "items": [
     {
+      "name": "ipset-aws",
+      "type": "ipset",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-aws.json"
+    },
+    {
       "name": "ipset-cloudflare",
       "type": "ipset",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-cloudflare.json"
     },
     {
+      "name": "ipset-roblox",
+      "type": "ipset",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-roblox.json"
+    },
+    {
       "name": "ipset-telegram",
       "type": "ipset",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-telegram.json"
+    },
+    {
+      "name": "ipset-whatsapp",
+      "type": "ipset",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset/ipset-whatsapp.json"
+    },
+    {
+      "name": "ipset-exclude-gosuslugi",
+      "type": "ipset_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset_exclude/ipset-exclude-gosuslugi.json"
+    },
+    {
+      "name": "ipset-exclude-x5group",
+      "type": "ipset_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset_exclude/ipset-exclude-x5group.json"
+    },
+    {
+      "name": "ipset-exclude-yandex",
+      "type": "ipset_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/ipset_exclude/ipset-exclude-yandex.json"
+    },
+    {
+      "name": "list-cloudflare",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-cloudflare.json"
+    },
+    {
+      "name": "list-discord",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-discord.json"
+    },
+    {
+      "name": "list-extended",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-extended.json"
+    },
+    {
+      "name": "list-general",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-general.json"
+    },
+    {
+      "name": "list-matrix",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-matrix.json"
+    },
+    {
+      "name": "list-meta-services",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-meta-services.json"
+    },
+    {
+      "name": "list-roblox",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-roblox.json"
+    },
+    {
+      "name": "list-rutracker",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-rutracker.json"
+    },
+    {
+      "name": "list-soundcloud",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-soundcloud.json"
+    },
+    {
+      "name": "list-telegram",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-telegram.json"
+    },
+    {
+      "name": "list-twitter",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-twitter.json"
+    },
+    {
+      "name": "list-whatsapp",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-whatsapp.json"
+    },
+    {
+      "name": "list-youtube",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list/list-youtube.json"
+    },
+    {
+      "name": "list-exclude-general",
+      "type": "list_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list_exclude/list-exclude-general.json"
+    },
+    {
+      "name": "list-exclude-gosuslugi",
+      "type": "list_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list_exclude/list-exclude-gosuslugi.json"
+    },
+    {
+      "name": "list-exclude-tiktok",
+      "type": "list_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list_exclude/list-exclude-tiktok.json"
+    },
+    {
+      "name": "list-exclude-x5group",
+      "type": "list_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list_exclude/list-exclude-x5group.json"
+    },
+    {
+      "name": "list-exclude-yandex",
+      "type": "list_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/list_exclude/list-exclude-yandex.json"
+    },
+    {
+      "name": "strategy-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt.json"
+    },
+    {
+      "name": "strategy-alt10",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt10.json"
+    },
+    {
+      "name": "strategy-alt11",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt11.json"
+    },
+    {
+      "name": "strategy-alt2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt2.json"
+    },
+    {
+      "name": "strategy-alt2-roblox",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt2-roblox.json"
+    },
+    {
+      "name": "strategy-alt3",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt3.json"
+    },
+    {
+      "name": "strategy-alt4",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt4.json"
+    },
+    {
+      "name": "strategy-alt5",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt5.json"
+    },
+    {
+      "name": "strategy-alt6",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt6.json"
+    },
+    {
+      "name": "strategy-alt7",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt7.json"
+    },
+    {
+      "name": "strategy-alt8",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-alt8.json"
+    },
+    {
+      "name": "strategy-default",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-default.json"
+    },
+    {
+      "name": "strategy-discord",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-discord.json"
+    },
+    {
+      "name": "strategy-discord-fix",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-discord-fix.json"
+    },
+    {
+      "name": "strategy-discordfix-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-discordfix-alt.json"
+    },
+    {
+      "name": "strategy-discordfix-alt2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-discordfix-alt2.json"
+    },
+    {
+      "name": "strategy-discordfix-mgts",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-discordfix-mgts.json"
+    },
+    {
+      "name": "strategy-fake-tls-auto-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-fake-tls-auto-alt.json"
+    },
+    {
+      "name": "strategy-fake-tls-auto-alt2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-fake-tls-auto-alt2.json"
+    },
+    {
+      "name": "strategy-fake-tls-auto-alt3",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-fake-tls-auto-alt3.json"
+    },
+    {
+      "name": "strategy-fix-v1",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-fix-v1.json"
+    },
+    {
+      "name": "strategy-fix-v2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-fix-v2.json"
+    },
+    {
+      "name": "strategy-fix-v3",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-fix-v3.json"
+    },
+    {
+      "name": "strategy-general",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general.json"
+    },
+    {
+      "name": "strategy-general-fake-tls-auto",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-fake-tls-auto.json"
+    },
+    {
+      "name": "strategy-general-fake-tls-auto-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-fake-tls-auto-alt.json"
+    },
+    {
+      "name": "strategy-general-fake-tls-auto-alt-2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-fake-tls-auto-alt-2.json"
+    },
+    {
+      "name": "strategy-general-fake-tls-auto-alt-3",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-fake-tls-auto-alt-3.json"
+    },
+    {
+      "name": "strategy-general-mgts",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-mgts.json"
+    },
+    {
+      "name": "strategy-general-mgts2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-mgts2.json"
+    },
+    {
+      "name": "strategy-general-old",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-old.json"
+    },
+    {
+      "name": "strategy-general-simple-fake",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-simple-fake.json"
+    },
+    {
+      "name": "strategy-general-simple-fake-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-general-simple-fake-alt.json"
+    },
+    {
+      "name": "strategy-generalfix",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-generalfix.json"
+    },
+    {
+      "name": "strategy-generalfix-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-generalfix-alt.json"
+    },
+    {
+      "name": "strategy-generalfix-alt3",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-generalfix-alt3.json"
+    },
+    {
+      "name": "strategy-generalfix-alt4",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-generalfix-alt4.json"
+    },
+    {
+      "name": "strategy-preset-russia",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-preset-russia.json"
+    },
+    {
+      "name": "strategy-russiafix",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-russiafix.json"
+    },
+    {
+      "name": "strategy-shizapret-alt-port",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-shizapret-alt-port.json"
+    },
+    {
+      "name": "strategy-shizapret-dot",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-shizapret-dot.json"
+    },
+    {
+      "name": "strategy-shizapret-dot-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-shizapret-dot-alt.json"
+    },
+    {
+      "name": "strategy-shizapret-md5sig-port",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-shizapret-md5sig-port.json"
+    },
+    {
+      "name": "strategy-shizapret-port",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-shizapret-port.json"
+    },
+    {
+      "name": "strategy-simple-fake",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-simple-fake.json"
+    },
+    {
+      "name": "strategy-simple-fake-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-simple-fake-alt.json"
+    },
+    {
+      "name": "strategy-ultimatefix",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-extended",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-extended.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v10",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v10.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v2.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v3",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v3.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v4",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v4.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v5",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v5.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v6",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v6.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v7",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v7.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v8",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v8.json"
+    },
+    {
+      "name": "strategy-ultimatefix-alt-v9",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-alt-v9.json"
+    },
+    {
+      "name": "strategy-ultimatefix-mgts",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-mgts.json"
+    },
+    {
+      "name": "strategy-ultimatefix-universal",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-universal.json"
+    },
+    {
+      "name": "strategy-ultimatefix-universal-v2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-universal-v2.json"
+    },
+    {
+      "name": "strategy-ultimatefix-universal-v3",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-ultimatefix-universal-v3.json"
+    },
+    {
+      "name": "strategy-youtubefix-alt",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/nfqws/strategy-youtubefix-alt.json"
+    },
+    {
+      "name": "strategy-default",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-default.json"
+    },
+    {
+      "name": "strategy-default-hosts",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-default-hosts.json"
+    },
+    {
+      "name": "strategy-ds",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-ds.json"
+    },
+    {
+      "name": "strategy-roblox",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-roblox.json"
+    },
+    {
+      "name": "strategy-test-speed-1",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-test-speed-1.json"
+    },
+    {
+      "name": "strategy-test-speed-2",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-test-speed-2.json"
+    },
+    {
+      "name": "strategy-ultimatefix",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-ultimatefix.json"
+    },
+    {
+      "name": "strategy-youtube-fix-mts",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-youtube-fix-mts.json"
+    },
+    {
+      "name": "strategy-yt-ds-r34",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-yt-ds-r34.json"
     }
   ]
 }
-
