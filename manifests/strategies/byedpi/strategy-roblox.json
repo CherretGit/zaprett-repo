@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-roblox",
+  "author": "gorez polar",
+  "description": "Порт стратегии gorez polar (портировал HelloGames_.)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/byedpi/strategy-roblox.txt",
+    "sha256": "1288d9f7dd24b7693ead8a768bbc94c2847138cc065f6999cff79529f409f0e7"
+  }
+}

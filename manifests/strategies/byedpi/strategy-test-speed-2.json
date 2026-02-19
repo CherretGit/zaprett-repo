@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-test-speed-2",
+  "author": "Роман Михневич",
+  "description": "Порт стратегии Романа (портировал HelloGames_.)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/byedpi/strategy-test-speed-2.txt",
+    "sha256": "d5fedcc8bf676c29f1f7bcc7c459ef371febf8e246b32dbe2e7e20235edfbc62"
+  }
+}

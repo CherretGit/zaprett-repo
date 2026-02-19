@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-default",
+  "author": "zaprett-devs",
+  "description": "Стандартная стратегия",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/byedpi/strategy-default.txt",
+    "sha256": "0ac1fc028491ccb910f93d0f044bc6825d13230c3c01054f6bfef35dd8f0cbdf"
+  }
+}

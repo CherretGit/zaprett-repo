@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-youtube-fix-mts",
+  "author": "g4me_ART",
+  "description": "стратегии от автора Mag4me_ART (портировал PixelSymbols)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/byedpi/strategy-youtube-fix-mts.txt",
+    "sha256": "6966902827aaa6eebfb1aa8309aa24533025bb2aa368ede229f206b51366f134"
+  }
+}

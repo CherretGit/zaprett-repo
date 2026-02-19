@@ -1,0 +1,11 @@
+{
+  "scheme": 1,
+  "name": "strategy-ultimatefix",
+  "author": "roman5432990",
+  "description": "стратегии от автора Роман (портировал PixelSymbols)",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/files/strategies/byedpi/strategy-ultimatefix.txt",
+    "sha256": "0caeac28932fedc1e231cb25663f3eed52f79c974c0a078247d51bd86ba4bf18"
+  }
+}
