@@ -490,6 +490,27 @@
       "name": "strategy-yt-ds-r34",
       "type": "byedpi",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/byedpi/strategy-yt-ds-r34.json"
+    },
+    {
+      "name": "quic_initial_www_google_com",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/quic_initial_www_google_com.json"
+    },
+    {
+      "name": "tls_clienthello_4pda_to",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_4pda_to.json"
+    },
+    {
+      "name": "tls_clienthello_max_ru",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_max_ru.json"
+    },
+    {
+      "name": "tls_clienthello_www_google_com",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refactor/manifests/bin/tls_clienthello_www_google_com.json"
     }
   ]
+
 }
