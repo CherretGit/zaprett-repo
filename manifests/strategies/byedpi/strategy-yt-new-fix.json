@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "strategy-yt-new-fix",
+  "name": "strategy-yt-new-fix",
+  "version": "1.0.0",
+  "author": "cofeek-codes",
+  "description": "стратегия, предложенная в обсуждении 1zlodey1",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/byedpi/strategy-yt-new-fix.txt",
+    "sha256": "fb12eb57bedd95433409474be352f7f3fa1de894db07109d501073a89ec80d7f"
+  }
+}

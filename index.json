@@ -505,6 +505,11 @@
       "id": "tls_clienthello_sberbank_ru",
       "type": "bin",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_sberbank_ru.json"
+    },
+    {
+      "id": "strategy-yt-new-fix",
+      "type": "byedpi",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/byedpi/strategy-yt-new-fix.json"
     }
   ]
 }
