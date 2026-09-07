@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "qwen2.1",
+  "version": "2.1",
+  "author": "dfilin",
+  "description": "Более мягкая по сравнению с 2 версией recommended. by ai qwen",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/strategy2.1.txt",
+    "sha256": "469d66f095a6867075fddd12ac5fde88b6dd97f0ff0a84798e3d6a6ebe906b3c"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "name": "qwen3",
+  "version": "3",
+  "author": "dfilin",
+  "description": "Самая жосткая из 3. by ai qwen",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/dfilin787/zaprett-repo/main/manifests/strategies/nfqws2/strategy3.txt",
+    "sha256": "65be8fea3a2ab0477d34d1cd3701da047e2517aceed20122cf3b40df5b4f1383"
+  }
+}
