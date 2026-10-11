@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_zapret_antidpi_v0947",
+  "name": "ALT11: zapret-antidpi.lua (compat 5)",
+  "version": "1.0.3",
+  "author": "bol-van",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lua/alt11_zapret_antidpi_v0947.lua",
+    "sha256": "3c53d4c4cf492afcd66f498217bc8d30dd2f1ec2eb26c33c8b5614909f6cae29"
+  }
+}

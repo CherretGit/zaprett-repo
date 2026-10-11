@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_tls_clienthello_max_ru",
+  "name": "ALT11: tls_clienthello_max_ru",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/alt11_tls_clienthello_max_ru.bin",
+    "sha256": "4ee0870abe0a0128600b0095189987ba1d210dae8bf963bc725aff49cf922624"
+  }
+}

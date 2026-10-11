@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_ipset_exclude",
+  "name": "ALT11: ipset-exclude",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/exclude/alt11_ipset_exclude.txt",
+    "sha256": "59bfca828dffa08a1d8694c03ea5378b64fa7137ca948e309a5b24c1b64c29e2"
+  }
+}

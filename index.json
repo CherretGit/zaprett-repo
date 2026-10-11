@@ -510,6 +510,96 @@
       "id": "strategy-yt-new-fix",
       "type": "byedpi",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/byedpi/strategy-yt-new-fix.json"
+    },
+    {
+      "id": "alt11_active_discord_udp",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_active_discord_udp.json"
+    },
+    {
+      "id": "alt11_active_game_udp",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_active_game_udp.json"
+    },
+    {
+      "id": "alt11_http_default",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_http_default.json"
+    },
+    {
+      "id": "alt11_stun2",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_stun2.json"
+    },
+    {
+      "id": "alt11_tls_clienthello_max_ru",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_tls_clienthello_max_ru.json"
+    },
+    {
+      "id": "alt11_tls_clienthello_www_google_com",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_tls_clienthello_www_google_com.json"
+    },
+    {
+      "id": "alt11_ipset_exclude",
+      "type": "ipset_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/exclude/alt11_ipset_exclude.json"
+    },
+    {
+      "id": "alt11_ipset_exclude_user",
+      "type": "ipset_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/exclude/alt11_ipset_exclude_user.json"
+    },
+    {
+      "id": "alt11_ipset_all",
+      "type": "ipset",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/include/alt11_ipset_all.json"
+    },
+    {
+      "id": "alt11_port",
+      "type": "lua_lib",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/alt11_port.json"
+    },
+    {
+      "id": "alt11_zapret_antidpi_v0947",
+      "type": "lua_lib",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/alt11_zapret_antidpi_v0947.json"
+    },
+    {
+      "id": "alt11_zapret_lib_v0947",
+      "type": "lua_lib",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/alt11_zapret_lib_v0947.json"
+    },
+    {
+      "id": "alt11_list_exclude",
+      "type": "list_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/exclude/alt11_list_exclude.json"
+    },
+    {
+      "id": "alt11_list_exclude_user",
+      "type": "list_exclude",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/exclude/alt11_list_exclude_user.json"
+    },
+    {
+      "id": "alt11_list_general",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/alt11_list_general.json"
+    },
+    {
+      "id": "alt11_list_general_user",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/alt11_list_general_user.json"
+    },
+    {
+      "id": "alt11_list_google",
+      "type": "list",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/alt11_list_google.json"
+    },
+    {
+      "id": "alt11_nfqws2_full",
+      "type": "nfqws2",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/alt11_nfqws2_full.json"
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "id": "alt11_nfqws2_full",
+  "name": "ALT11 - full (Game Filter disabled)",
+  "version": "1.0.3",
+  "author": "Flowseal (original ALT11); Ilya (nfqws2 port)",
+  "description": "Полный порт Flowseal ALT11 для nfqws2: 9 профилей, Game Filter выключен. Lua API 5 / zaprett 7.1. YouTube проверен на Android с KernelSU.",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/alt11_zapret_lib_v0947.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/alt11_zapret_antidpi_v0947.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/alt11_port.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_tls_clienthello_max_ru.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_stun2.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_active_discord_udp.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_active_game_udp.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/alt11_http_default.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/alt11_list_general.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/alt11_list_general_user.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/exclude/alt11_list_exclude.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/exclude/alt11_list_exclude_user.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/exclude/alt11_ipset_exclude.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/exclude/alt11_ipset_exclude_user.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lists/include/alt11_list_google.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/include/alt11_ipset_all.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/alt11_nfqws2_full.txt",
+    "sha256": "34e0ae4878f39e2ed639da53e60e3ba730837e46654be0f301975f0661cd11da"
+  }
+}

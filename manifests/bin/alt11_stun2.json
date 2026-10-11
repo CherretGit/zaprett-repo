@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_stun2",
+  "name": "ALT11: stun2",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/alt11_stun2.bin",
+    "sha256": "b7c2497496039c541f7337ac8536813f0a1cf52363ab2faa5213b7816d458813"
+  }
+}

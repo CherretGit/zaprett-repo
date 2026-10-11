@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_active_discord_udp",
+  "name": "ALT11: ACTIVE_DISCORD_UDP",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/alt11_active_discord_udp.bin",
+    "sha256": "2fe18b3bd20807d36704d0b072092ee49ae84edca907a4420ab9a0f0f28fddcf"
+  }
+}

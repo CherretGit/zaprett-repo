@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_http_default",
+  "name": "ALT11: default HTTP fake",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Полный стандартный HTTP-фейк nfqws1, 263 байта. Используется в TCP-профилях Google / discord.media.",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/alt11_http_default.bin",
+    "sha256": "91c4596f679ce501ad59cf81f3c9821e5d9592c927236faf0893a78dbafbf963"
+  }
+}

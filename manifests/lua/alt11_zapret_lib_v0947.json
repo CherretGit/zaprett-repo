@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_zapret_lib_v0947",
+  "name": "ALT11: zapret-lib.lua (compat 5)",
+  "version": "1.0.3",
+  "author": "bol-van",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lua/alt11_zapret_lib_v0947.lua",
+    "sha256": "e332ef8c1af04e6c0984043ca2f3cbd86180d3ddc307fbe67b522d5a250d55f6"
+  }
+}

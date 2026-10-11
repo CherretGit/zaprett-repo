@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_list_exclude",
+  "name": "ALT11: list-exclude",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/exclude/alt11_list_exclude.txt",
+    "sha256": "30a67f4af8eb7abe709db84235e1d97924d851bf4380b676a109dbe408d446e9"
+  }
+}

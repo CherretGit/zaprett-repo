@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_ipset_all",
+  "name": "ALT11: ipset-all",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/ipset/include/alt11_ipset_all.txt",
+    "sha256": "050887f9de1329575e7c6dcb22d634d44e36d7e9e4ebb2ed25242ac45c884d8d"
+  }
+}

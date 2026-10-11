@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_list_google",
+  "name": "ALT11: list-google",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/alt11_list_google.txt",
+    "sha256": "a21df8b813593e5cb4f5fd95ca2a34a05fc44ab7dde19735e859e96ad5780301"
+  }
+}

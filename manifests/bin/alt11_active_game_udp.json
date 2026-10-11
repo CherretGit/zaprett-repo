@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_active_game_udp",
+  "name": "ALT11: ACTIVE_GAME_UDP",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/alt11_active_game_udp.bin",
+    "sha256": "e065870cb0d13152e6132807bbf42218a9e7cd8d96f5602b61674cc540f3a56e"
+  }
+}

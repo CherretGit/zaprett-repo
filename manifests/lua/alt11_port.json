@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_port",
+  "name": "ALT11: nfqws1 compatibility dispatch",
+  "version": "1.0.3",
+  "author": "Flowseal (original ALT11); Ilya (nfqws2 port)",
+  "description": "Диспетчер ALT11 для nfqws2: fake + multisplit, маркер pos=1, ts=-600000, перекрытие 681/664 байта. Требует обе штатные Lua-библиотеки API 5.",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lua/alt11_port.lua",
+    "sha256": "98ca6b7b63723d9b4692f4fc245cdba600689f2e4b1b2335f5f384fdfe9c3d1d"
+  }
+}

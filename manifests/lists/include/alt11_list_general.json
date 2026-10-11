@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_list_general",
+  "name": "ALT11: list-general",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lists/include/alt11_list_general.txt",
+    "sha256": "5905f9f91e53142f2a5b964ce31bd01c458f2ab6f7fda0ad71b45e2919407a93"
+  }
+}

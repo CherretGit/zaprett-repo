@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "alt11_tls_clienthello_www_google_com",
+  "name": "ALT11: tls_clienthello_www_google_com",
+  "version": "1.0.3",
+  "author": "Flowseal / zapret upstream",
+  "description": "Данные для переноса ALT11 в nfqws2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/alt11_tls_clienthello_www_google_com.bin",
+    "sha256": "936c2bee4cfb80aa3c426b2dcbcc834b3fbcd1adb17172959dc569c73a14275c"
+  }
+}
