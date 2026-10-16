@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "nfqws2-discordmedia",
+  "name": "nfqws2-discordmedia",
+  "version": "1.0.0",
+  "author": "HelloGames-ds",
+  "description": "Discord media цепочкой: send+syndata+multisplit с мёртвыми сегментами",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-discordmedia.txt",
+    "sha256": "f7c3e6637664c13e08749242574c79582a25df321fa8da5d5961a2a6ec7aa027"
+  }
+}

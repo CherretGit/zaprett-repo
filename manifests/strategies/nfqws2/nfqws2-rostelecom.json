@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "nfqws2-rostelecom",
+  "name": "nfqws2-rostelecom",
+  "version": "1.0.0",
+  "author": "HelloGames-ds",
+  "description": "По пресету Ростелеком: syndata+multidisorder_legacy без fooling, QUIC autottl",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-rostelecom.txt",
+    "sha256": "37ae64f8e9ae279db1eba6a38e8436d9195fd4767dbc4c78f7f98a3db4c855c1"
+  }
+}

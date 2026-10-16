@@ -1,0 +1,33 @@
+--comment=zapret2 auto rotation --lua-init=@${lua_lib:zapret-lib} --lua-init=@${lua_lib:zapret-antidpi} --lua-init=@${lua_lib:zapret-auto} --blob=tls_google:@${bin:tls_clienthello_www_google_com} --blob=quic_google:@${bin:quic_initial_www_google_com} --blob=zero4:0x00000000
+--comment=Telegram WebRTC --filter-udp=1400 --filter-l7=stun --out-range=-n3 --payload=stun --lua-desync=syndata --lua-desync=fake:blob=0x01:repeats=3 --new
+--comment=WhatsApp WebRTC --filter-udp=3478-3482,3484,3488,3489,3491-3493,3495-3497 --filter-l7=stun --out-range=-n4 --payload=stun --lua-desync=syndata --lua-desync=fake:blob=0x01:repeats=5 --new
+--comment=Discord voice --filter-udp=19294-19344,50000-50100 --filter-l7=discord,stun --out-range=-d10 --payload=discord_ip_discovery --lua-desync=fake:blob=0x01:repeats=3 --payload=stun --lua-desync=fake:blob=0x01:repeats=3 --new
+--comment=Discord --filter-tcp=443,2053,2083,2087,2096,8443 --hostlist-domains=discord.com,discordapp.com,discord.gg,discord.media,discord.co,discord.app,discord.dev,discord.gift,discord.gifts,discord.new,discord.store,discord.status,discord-activities.com,discordactivities.com,cdn.discordapp.com,discordapp.net,media.discordapp.net,images-ext-1.discordapp.net,updates.discord.com,discordcdn.com,discordmerch.com,discordpartygames.com,discordsays.com --out-range=-d10 --payload=tls_client_hello --lua-desync=circular:fails=4:retrans=2:maxseq=16384
+--lua-desync=fake:blob=tls_google:tcp_seq=2:repeats=4:tls_mod=rnd,dupsid:strategy=1
+--lua-desync=multisplit:pos=1,midsld:seqovl=681:seqovl_pattern=tls_google:strategy=1
+--lua-desync=fakedsplit:pos=1,midsld:pattern=zero4:seqovl=8:seqovl_pattern=zero4:strategy=2
+--lua-desync=multidisorder:pos=1,midsld:strategy=2
+--lua-desync=fake:blob=tls_google:tcp_seq=2:repeats=6:tls_mod=rnd,rndsni,dupsid:ip_id=zero:strategy=3:final --new
+--comment=Discord gateway --filter-tcp=443 --hostlist-domains=gateway.discord.gg --out-range=-d10 --payload=tls_client_hello --lua-desync=circular:fails=4:retrans=2:maxseq=16384
+--lua-desync=fake:blob=tls_google:tcp_seq=2:repeats=8:tls_mod=rnd,dupsid,sni=yandex.ru:strategy=1
+--lua-desync=multidisorder:pos=1,midsld:strategy=2
+--lua-desync=fakedsplit:pos=1,midsld:pattern=zero4:seqovl=8:seqovl_pattern=zero4:strategy=3:final --new
+--comment=QUIC443 --filter-udp=443 ${hostlists} --payload=quic_initial --lua-desync=fake:blob=quic_google:repeats=7 --new
+--comment=YouTube HTTP80 --filter-tcp=80 ${hostlists} --out-range=-d10 --payload=http_req --lua-desync=circular:fails=4:retrans=2:maxseq=16384
+--lua-desync=fake:blob=fake_default_http:repeats=4:strategy=1
+--lua-desync=multisplit:pos=2,host+1:seqovl=8:seqovl_pattern=zero4:strategy=2
+--lua-desync=fakedsplit:pos=2,host+1:pattern=zero4:seqovl=4:strategy=3:final --new
+--comment=YouTube TLS443 --filter-tcp=443 --hostlist-domains=youtube.com,youtu.be,googlevideo.com,yt3.ggpht.com,yt4.ggpht.com,yt3.googleusercontent.com,jnn-pa.googleapis.com,wide-youtube.l.google.com,youtube-nocookie.com,youtube-ui.l.google.com,youtubeembeddedplayer.googleapis.com,youtubekids.com,youtubei.googleapis.com,yt-video-upload.l.google.com,ytimg.com,ytimg.l.google.com --out-range=-d10 --payload=tls_client_hello --lua-desync=multisplit:pos=1,midsld:seqovl=681:seqovl_pattern=tls_google --new
+--comment=Cloudflare WARP --filter-tcp=443,853 --ipset-ip=162.159.36.1,162.159.46.1,2606:4700:4700::1111,2606:4700:4700::1001 --out-range=-d10 --payload=tls_client_hello --lua-desync=fake:blob=fake_default_tls:tcp_seq=2:repeats=3 --new
+--comment=WireGuard --filter-udp=0-65535 --filter-l7=wireguard --out-range=-n3 --payload=wireguard_initiation,wireguard_cookie --lua-desync=syndata --lua-desync=fake:blob=0x01:repeats=3 --new
+--comment=TCP80 hostlists --filter-tcp=80 ${hostlists} --out-range=-d10 --payload=http_req --lua-desync=circular:fails=4:retrans=2:maxseq=16384
+--lua-desync=fake:blob=fake_default_http:tcp_md5:repeats=4:strategy=1
+--lua-desync=multisplit:pos=2,host+1:seqovl=8:seqovl_pattern=zero4:strategy=2
+--lua-desync=fakedsplit:pos=2,host+1:pattern=zero4:seqovl=4:strategy=3:final --new
+--comment=TCP443 hostlists --filter-tcp=443 ${hostlists} --out-range=-d10 --payload=tls_client_hello --lua-desync=circular:fails=4:retrans=2:maxseq=16384
+--lua-desync=fake:blob=fake_default_tls:tcp_md5:repeats=11:tls_mod=rnd,dupsid,sni=www.google.com:strategy=1
+--lua-desync=multidisorder:pos=1,midsld:strategy=2
+--lua-desync=fakedsplit:pos=1,midsld:pattern=zero4:seqovl=8:seqovl_pattern=zero4:strategy=3:final --new
+--comment=ipset TCP80 --filter-tcp=80 ${ipsets} --out-range=-d10 --payload=http_req --lua-desync=fake:blob=fake_default_http:repeats=4 --new
+--comment=ipset TCP443 --filter-tcp=443 ${ipsets} --out-range=-d10 --payload=tls_client_hello --lua-desync=multidisorder:pos=1,midsld --new
+--comment=ipset UDP443 --filter-udp=443 ${ipsets} --payload=quic_initial --lua-desync=fake:blob=quic_google:repeats=4

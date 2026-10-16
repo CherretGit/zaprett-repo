@@ -1,0 +1,9 @@
+--comment=UDP и игры (payload=all) --lua-init=@${lua_lib:zapret-lib} --lua-init=@${lua_lib:zapret-antidpi} --blob=quic_google:@${bin:quic_initial_www_google_com} --blob=tls_google:@${bin:tls_clienthello_www_google_com} --blob=zero4:0x00000000
+--comment=QUIC stateful --filter-udp=443 ${hostlists} --out-range=-d10 --payload=all --lua-desync=fake:blob=quic_google:ip_autottl=-2,3-20:ip6_autottl=-2,3-20:repeats=10 --new
+--comment=QUIC stateless фрагментация --filter-udp=443 ${hostlists} --out-range=-d5 --payload=quic_initial --lua-desync=send:ipfrag:ipfrag_pos_udp=32 --lua-desync=drop --new
+--comment=QUIC stateless 64 --filter-udp=443 ${hostlists} --out-range=-d5 --payload=quic_initial --lua-desync=send:ipfrag:ipfrag_pos_udp=64 --lua-desync=drop --new
+--comment=IPv6 exthdr QUIC --filter-udp=443 ${hostlists} --out-range=-d5 --payload=quic_initial --lua-desync=send:ip6_hopbyhop:ip6_destopt --lua-desync=drop --new
+--comment=Голос STUN Discord --filter-l7=stun,discord --out-range=-n8 --payload=stun,discord_ip_discovery --lua-desync=fake:blob=quic_google:ip_autottl=-2,3-20:ip6_autottl=-2,3-20:repeats=10 --new
+--comment=WireGuard MTProto --filter-l7=wireguard,mtproto --out-range=-n2 --payload=wireguard_initiation,wireguard_response,wireguard_cookie,mtproto_initial --lua-desync=fake:blob=zero4:repeats=6 --new
+--comment=Игры UDP --filter-udp=88,500,1024-19293,19345-49999,50101-65535 --in-range=-d100 --out-range=-d100 --payload=all --lua-desync=fake:blob=quic_google:out_range=-d2 --new
+--comment=TLS базово --filter-tcp=443 ${hostlists} --out-range=-d10 --payload=tls_client_hello --lua-desync=fake:blob=fake_default_tls:tcp_ts=-1000:repeats=4 --lua-desync=multidisorder:pos=1,midsld

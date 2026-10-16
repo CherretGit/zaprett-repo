@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "nfqws2-stealth",
+  "name": "nfqws2-stealth",
+  "version": "1.0.0",
+  "author": "HelloGames-ds",
+  "description": "Скрытый фейк в seqovl из настоящего ClientHello, без искажений",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-stealth.txt",
+    "sha256": "ccfd3e392f18083fcd367465e6a081edca591c7f5b1eada69a23fc7ad597e727"
+  }
+}

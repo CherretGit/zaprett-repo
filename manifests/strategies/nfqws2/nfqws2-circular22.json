@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "id": "nfqws2-circular22",
+  "name": "nfqws2-circular22",
+  "version": "1.0.0",
+  "author": "HelloGames-ds",
+  "description": "Ротация circular из 22 TCP и 9 UDP вариантов (GUI Default v2)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-auto.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-circular22.txt",
+    "sha256": "b0f40409235e20ad8746230de9a1aa30dd04b4867ad3ac96583b7a5947962dfb"
+  }
+}

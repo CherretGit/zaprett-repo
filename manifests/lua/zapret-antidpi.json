@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "id": "zapret-antidpi",
+  "name": "zapret-antidpi",
+  "version": "1.0.1",
+  "author": "bol-van",
+  "description": "Lua-библиотека nfqws2: функции десинка (fake, multisplit, multidisorder, fakedsplit, oob и др.)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lua/zapret-antidpi.lua",
+    "sha256": "3c53d4c4cf492afcd66f498217bc8d30dd2f1ec2eb26c33c8b5614909f6cae29"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "id": "nfqws2-aggressive",
+  "name": "nfqws2-aggressive",
+  "version": "1.3.0",
+  "author": "HelloGames-ds",
+  "description": "Всё сразу: fake + fakeddisorder + syndata, repeats 11",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_vk_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-aggressive.txt",
+    "sha256": "f4c178a92e87e6edec129b45af65e2ec0feea972410e667129badfcf3805e7be"
+  }
+}

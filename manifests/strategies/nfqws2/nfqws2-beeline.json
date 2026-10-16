@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "nfqws2-beeline",
+  "name": "nfqws2-beeline",
+  "version": "1.0.0",
+  "author": "HelloGames-ds",
+  "description": "По пресету Beeline: multidisorder pos=2 + UDP fake 0x00 (Telegram/WhatsApp)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-beeline.txt",
+    "sha256": "29027a8ff7248f854db57ac549ca30157632e4e676b67221f93addc9741d50fa"
+  }
+}

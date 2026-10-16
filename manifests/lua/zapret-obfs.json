@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "id": "zapret-obfs",
+  "name": "zapret-obfs",
+  "version": "1.0.1",
+  "author": "bol-van",
+  "description": "Lua-библиотека nfqws2: обфускация (wgobfs, ippxor, udp2icmp, synhide)",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lua/zapret-obfs.lua",
+    "sha256": "e9581bfbca846630ada78193641d834e25abc11337ba85467d642c2d8c6fa47f"
+  }
+}

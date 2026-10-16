@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "id": "nfqws2-sni",
+  "name": "nfqws2-sni",
+  "version": "1.0.0",
+  "author": "HelloGames-ds",
+  "description": "Подмена SNI: hostfakesplit с midhost/disorder_after и tls_mod",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_vk_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-sni.txt",
+    "sha256": "22e1bd0f90ed52c3f911e1f8863c078e0aec54146a6e60cb135d064511582d25"
+  }
+}

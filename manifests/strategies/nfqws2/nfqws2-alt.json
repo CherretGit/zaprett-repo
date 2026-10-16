@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "nfqws2-alt",
+  "name": "nfqws2-alt",
+  "version": "1.3.0",
+  "author": "HelloGames-ds",
+  "description": "Порт strategy-alt на nfqws2: seqovl без fooling",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-alt.txt",
+    "sha256": "78c02cb94333aeb6dadecd5e0b74100aafe2767f5e64e8a757b26bb0bef722d0"
+  }
+}

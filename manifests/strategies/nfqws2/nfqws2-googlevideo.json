@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "id": "nfqws2-googlevideo",
+  "name": "nfqws2-googlevideo",
+  "version": "1.0.0",
+  "author": "HelloGames-ds",
+  "description": "YouTube прицельно: multidisorder по маркерам хоста + QUIC repeats 2/11",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2-googlevideo.txt",
+    "sha256": "82403bc9b38ec0a619d76f9f11b5f85997541d0967146451c1c964d2296d7c54"
+  }
+}

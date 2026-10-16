@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "zapret-lib",
+  "name": "zapret-lib",
+  "version": "1.0.1",
+  "author": "bol-van",
+  "description": "Lua-библиотека nfqws2: базовые функции. Должна загружаться первой",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/lua/zapret-lib.lua",
+    "sha256": "e332ef8c1af04e6c0984043ca2f3cbd86180d3ddc307fbe67b522d5a250d55f6"
+  }
+}
