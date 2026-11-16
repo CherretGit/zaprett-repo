@@ -4,7 +4,7 @@
     {
       "id": "nfqws2test",
       "type": "nfqws2",
-      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-ultimatefix-universal-v3.json"
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/nfqws2test.json"
     },
     {
       "id": "ipset-aws",
