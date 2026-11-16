@@ -8,6 +8,6 @@
   "dependencies": [],
   "artifact": {
     "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/bin/tls_clienthello.bin",
-    "sha256": "936C2BEE4CFB80AA3C426B2DCBCC834B3FBCD1ADB17172959DC569C73A14275C"
+    "sha256": "936c2bee4cfb80aa3c426b2dcbcc834b3fbcd1adb17172959dc569c73a14275c"
   }
 }

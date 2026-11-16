@@ -8,6 +8,6 @@
   "dependencies": [],
   "artifact": {
     "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/bin/quic_initial.bin",
-    "sha256": "F4589C57749F956BB30538197A521D7005F8B0A8723B4707E72405E51DDAC50A"
+    "sha256": "f4589c57749f956bb30538197a521d7005f8b0a8723b4707e72405e51ddac50a"
   }
 }
