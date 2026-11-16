@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "id": "strategy-alt9",
+  "name": "strategy-alt9",
+  "version": "1.0.0",
+  "author": "Flowseal",
+  "description": "Порт ALT9 из zapret-discord-youtube 1.10.2",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/active_discord_udp.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt9.txt",
+    "sha256": "aea619674526a2c06fcb37fae485c03786cdcb531a4ed2cdb2cb72726859d252"
+  }
+}

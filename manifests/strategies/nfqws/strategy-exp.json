@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "id": "strategy-exp",
+  "name": "strategy-exp",
+  "version": "1.0.0",
+  "author": "Flowseal",
+  "description": "Порт экспериментальной стратегии из zapret-discord-youtube 1.10.2",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/active_discord_udp.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun2.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-exp.txt",
+    "sha256": "a676561ca93041179e7c051438f81a67dd6f8d6f4d1627295ccc7b3b14be1079"
+  }
+}

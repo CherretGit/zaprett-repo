@@ -510,6 +510,51 @@
       "id": "strategy-yt-new-fix",
       "type": "byedpi",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/byedpi/strategy-yt-new-fix.json"
+    },
+    {
+      "id": "strategy-alt9",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-alt9.json"
+    },
+    {
+      "id": "strategy-alt12",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-alt12.json"
+    },
+    {
+      "id": "strategy-alt13",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-alt13.json"
+    },
+    {
+      "id": "strategy-exp",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-exp.json"
+    },
+    {
+      "id": "strategy-general-simple-fake-alt2",
+      "type": "nfqws",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-general-simple-fake-alt2.json"
+    },
+    {
+      "id": "active_discord_udp",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/active_discord_udp.json"
+    },
+    {
+      "id": "stun",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json"
+    },
+    {
+      "id": "stun2",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun2.json"
+    },
+    {
+      "id": "tls_clienthello_sochi_park",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_sochi_park.json"
     }
   ]
 }

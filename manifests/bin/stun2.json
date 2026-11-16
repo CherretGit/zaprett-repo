@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "stun2",
+  "name": "stun2",
+  "version": "1.0.0",
+  "author": "Flowseal",
+  "description": "Binary fake from zapret-discord-youtube 1.10.2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/stun2.bin",
+    "sha256": "b7c2497496039c541f7337ac8536813f0a1cf52363ab2faa5213b7816d458813"
+  }
+}

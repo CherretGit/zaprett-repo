@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "active_discord_udp",
+  "name": "active_discord_udp",
+  "version": "1.0.0",
+  "author": "Flowseal",
+  "description": "Binary fake from zapret-discord-youtube 1.10.2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/active_discord_udp.bin",
+    "sha256": "74b1dfbdec125263c9407436658b0a848b8f0a934b8063d11571a6a2146a4a7b"
+  }
+}

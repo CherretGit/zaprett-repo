@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "id": "strategy-alt12",
+  "name": "strategy-alt12",
+  "version": "1.0.0",
+  "author": "Flowseal",
+  "description": "Порт ALT12 из zapret-discord-youtube 1.10.2",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/active_discord_udp.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt12.txt",
+    "sha256": "f7f4c0b0033f69275ce66ccc638f4d7fe32183d1b36182ff6c96bd6ae4fe4bb5"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "id": "strategy-general-simple-fake-alt2",
+  "name": "strategy-general-simple-fake-alt2",
+  "version": "1.0.0",
+  "author": "Flowseal",
+  "description": "Порт SIMPLE FAKE ALT2 из zapret-discord-youtube 1.10.2",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/active_discord_udp.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun2.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_max_ru.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-general-simple-fake-alt2.txt",
+    "sha256": "e1aa443deacfc9fc6fe225f6a74127c400235ebe8860e56a24cd3627b07f93b2"
+  }
+}
