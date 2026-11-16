@@ -2,6 +2,11 @@
   "schema": 1,
   "items": [
     {
+      "id": "nfqws2test",
+      "type": "nfqws2",
+      "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/strategies/nfqws/strategy-ultimatefix-universal-v3.json"
+    },
+    {
       "id": "ipset-aws",
       "type": "ipset",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/include/ipset-aws.json"
