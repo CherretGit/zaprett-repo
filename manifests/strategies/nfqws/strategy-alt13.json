@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "id": "strategy-alt13",
+  "name": "strategy-alt13",
+  "version": "1.0.0",
+  "author": "Flowseal",
+  "description": "Порт ALT13 из zapret-discord-youtube 1.10.2",
+  "dependencies": [
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/quic_initial_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/active_discord_udp.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/stun2.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_www_google_com.json",
+    "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello_sochi_park.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/strategies/nfqws/strategy-alt13.txt",
+    "sha256": "39a097c2633fc6955780b1c896a6c99e8b978e0696a763495028a89045ecc1c2"
+  }
+}

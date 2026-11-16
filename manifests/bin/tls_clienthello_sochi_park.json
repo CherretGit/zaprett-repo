@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "tls_clienthello_sochi_park",
+  "name": "tls_clienthello_sochi_park",
+  "version": "1.0.0",
+  "author": "Flowseal",
+  "description": "Binary fake from zapret-discord-youtube 1.10.2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/files/bin/tls_clienthello_sochi_park.bin",
+    "sha256": "ad552922acfe029521da884ea29f4bb28bb6bdcee9b1a70b46adbfd266c11d4d"
+  }
+}
