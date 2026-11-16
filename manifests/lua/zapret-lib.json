@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "zapret-lib",
+  "name": "zapret-lib",
+  "version": "1.0.0",
+  "author": "zaprett-devs",
+  "description": "Binary artifact: zapret-lib",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/lua/zapret-lib.lua",
+    "sha256": "6BF528FEF1F0FC3C65E189216FC8A06BB873F6E25D1C29D2BFA4695A09B73440"
+  }
+}

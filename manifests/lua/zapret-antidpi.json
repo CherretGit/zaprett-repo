@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "zapret-antidpi",
+  "name": "zapret-antidpi",
+  "version": "1.0.0",
+  "author": "zaprett-devs",
+  "description": "Binary artifact: zapret-antidpi",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/lua/zapret-antidpi.lua",
+    "sha256": "6D1FA9168E5DE1682FEF91FD174F68B58C50F6739EF00F42CA7DB2B940B6246D"
+  }
+}
