@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "tls_clienthello",
+  "name": "tls_clienthello",
+  "version": "1.0.0",
+  "author": "zaprett-devs",
+  "description": "Binary artifact: tls_clienthello",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/bin/tls_clienthello.bin",
+    "sha256": "936C2BEE4CFB80AA3C426B2DCBCC834B3FBCD1ADB17172959DC569C73A14275C"
+  }
+}
