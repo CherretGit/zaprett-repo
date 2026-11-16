@@ -1,7 +1,7 @@
 --fastpath-workaround=auto
---lua-init=${lua_lib:zapret-lib.lua}
---lua-init=${lua_lib:zapret-antidpi.lua}
---lua-init=${lua_lib:zapret-auto.lua}
+--lua-init=${lua_lib:zapret-lib}
+--lua-init=${lua_lib:zapret-antidpi}
+--lua-init=${lua_lib:zapret-auto}
 --blob=quic_initial:${bin:quic_initial}
 --blob=tls_clienthello:${bin:tls_clienthello}
 
