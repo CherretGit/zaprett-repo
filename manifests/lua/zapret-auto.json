@@ -8,6 +8,6 @@
   "dependencies": [],
   "artifact": {
     "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/lua/zapret-auto.lua",
-    "sha256": "23A9B99A776D868D92F4CC0EE5110F5C1F12FE746620D9C0337022DBC2F52DF0"
+    "sha256": "23a9b99a776d868d92f4cc0ee5110f5c1f12fe746620d9c0337022dbc2f52df0"
   }
 }
