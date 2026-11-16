@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "id": "nfqws2test",
+  "name": "nfqws2test",
+  "version": "0.0.1",
+  "author": "Yuri",
+  "description": "Стратегия-[etubz",
+  "dependencies": [
+    "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
+    "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-auto.json",
+    "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json",
+    "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/bin/quic_initial.json",
+    "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello.json"
+  ],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2test.txt",
+    "sha256": "49f97621a8d2401d9fed353478e7d0c6bf1f94e18db82e95e4f8ed93e9354d1e"
+  }
+}
