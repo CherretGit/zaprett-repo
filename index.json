@@ -7,6 +7,31 @@
       "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/nfqws2test.json"
     },
     {
+      "id": "tls_clienthello",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello.json"
+    },
+    {
+      "id": "quic_initial",
+      "type": "bin",
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/bin/quic_initial.json"
+    },
+    {
+      "id": "zapret-auto",
+      "type": "lua_lib",
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-auto.json"
+    },
+    {
+      "id": "zapret-lib",
+      "type": "lua_lib",
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-lib.json"
+    },
+    {
+      "id": "zapret-antidpi",
+      "type": "lua_lib",
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json"
+    },    
+    {
       "id": "ipset-aws",
       "type": "ipset",
       "manifest": "https://raw.githubusercontent.com/CherretGit/zaprett-repo/refs/heads/main/manifests/ipset/include/ipset-aws.json"
