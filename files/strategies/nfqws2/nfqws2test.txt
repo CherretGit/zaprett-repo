@@ -1,8 +1,2 @@
---fastpath-workaround=auto
---lua-init=${lua_lib:zapret-lib}
---lua-init=${lua_lib:zapret-antidpi}
---lua-init=${lua_lib:zapret-auto}
---blob=quic_initial:${bin:quic_initial}
---blob=tls_clienthello:${bin:tls_clienthello}
-
+--lua-init=${lua_lib:zapret-lib} --lua-init=${lua_lib:zapret-antidpi} --lua-init=${lua_lib:zapret-auto} --blob=quic_initial:${bin:quic_initial} --blob=tls_clienthello:${bin:tls_clienthello} \
 --filter-tcp=443,80,1984,5222 --filter-l7=http,tls,mtproto ${hostlists} ${ipsets} --payload=tls_client_hello,mtproto_initial --lua-desync=circular:fails=2:time=300:retrans=3:nld=2
