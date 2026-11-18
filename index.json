@@ -7,6 +7,11 @@
       "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/nfqws2test.json"
     },
     {
+      "id": "test2",
+      "type": "nfqws2",
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/strategies/nfqws2/test2.txt"
+    },
+    {
       "id": "tls_clienthello",
       "type": "bin",
       "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello.json"
