@@ -9,7 +9,7 @@
     {
       "id": "test2",
       "type": "nfqws2",
-      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/strategies/nfqws2/test2.txt"
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/test2.json"
     },
     {
       "id": "tls_clienthello",
