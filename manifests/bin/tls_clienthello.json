@@ -3,8 +3,8 @@
   "id": "tls_clienthello",
   "name": "tls_clienthello",
   "version": "1.0.0",
-  "author": "zaprett-devs",
-  "description": "Binary artifact: tls_clienthello",
+  "author": "bol-van",
+  "description": "tls_clienthello from zapret2",
   "dependencies": [],
   "artifact": {
     "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/bin/tls_clienthello.bin",
