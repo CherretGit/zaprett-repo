@@ -4,7 +4,7 @@
   "name": "strategy_yt_and_other_mts",
   "version": "0.0.1",
   "author": "nfqws (портировал Rechevik)",
-  "description": "Стратегия ",
+  "description": "Стратегия YouTube и другие сайты (проверено на МТС)",
   "dependencies": [
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-auto.json",
