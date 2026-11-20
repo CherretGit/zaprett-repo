@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "id": "test2",
-  "name": "test2",
+  "id": "strategy_yt_alt_mts",
+  "name": "strategy_yt_alt_mts",
   "version": "0.0.1",
-  "author": "Yuri",
-  "description": "Стратегия-[etubz-2",
+  "author": "meromdios",
+  "description": "Альтернативная стратегия YouTube (проверено на МТС)",
   "dependencies": [
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-auto.json",
@@ -13,7 +13,7 @@
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello.json"
   ],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/strategies/nfqws2/test2.txt",
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/strategies/nfqws2/strategy_yt_alt_mts.txt",
     "sha256": "e3740a71eb7d00425b0f1331cfd34d7206be0f7d44ea1f3e95c9308d82b49c69"
   }
 }
