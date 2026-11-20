@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "id": "nfqws2test",
-  "name": "nfqws2test",
+  "id": "strategy_yt_and_other_mts",
+  "name": "strategy_yt_and_other_mts",
   "version": "0.0.1",
   "author": "nfqws (портировал Rechevik)",
-  "description": "Стратегия-[etubz",
+  "description": "Стратегия ",
   "dependencies": [
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-auto.json",
@@ -13,7 +13,7 @@
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/bin/tls_clienthello.json"
   ],
   "artifact": {
-    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/strategies/nfqws2/nfqws2test.txt",
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/strategies/nfqws2/strategy_yt_and_other_mts.txt",
     "sha256": "becc5fd2c3a70a99fb4db54ed2a4d79f0799706efdff450a5d78926625199e26"
   }
 }
