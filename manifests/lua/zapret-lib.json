@@ -3,8 +3,8 @@
   "id": "zapret-lib",
   "name": "zapret-lib",
   "version": "1.0.0",
-  "author": "zaprett-devs",
-  "description": "Binary artifact: zapret-lib",
+  "author": "bol-van",
+  "description": "zapret-lib from zapret2",
   "dependencies": [],
   "artifact": {
     "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/lua/zapret-lib.lua",
