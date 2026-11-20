@@ -1,0 +1,4 @@
+--lua-init=${lua_lib:zapret-lib} --lua-init=${lua_lib:zapret-antidpi} --lua-init=${lua_lib:zapret-auto} --blob=quic_initial:${bin:quic_initial} --blob=tls_clienthello:${bin:tls_clienthello} \
+--filter-tcp=443 --filter-l7=tls ${hostlists} --payload=tls_client_hello --lua-desync=tcpseg:pos=0,1:ip_id=rnd:repeats=1 --new \
+--filter-tcp=443 --filter-l7=tls ${hostlists} --payload=tls_client_hello --lua-desync=tcpseg:pos=0,1:ip_id=rnd:repeats=1 --new \
+--filter-udp=443 --filter-l7=quic ${hostlists} --payload=quic_initial --lua-desync=fake:blob=fake_default_quic:repeats=11
