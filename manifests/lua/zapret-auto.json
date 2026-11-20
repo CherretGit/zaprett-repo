@@ -3,8 +3,8 @@
   "id": "zapret-auto",
   "name": "zapret-auto",
   "version": "1.0.0",
-  "author": "zaprett-devs",
-  "description": "Binary artifact: zapret-auto",
+  "author": "bol-van",
+  "description": "zapret-auto from zapret2",
   "dependencies": [],
   "artifact": {
     "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/lua/zapret-auto.lua",
