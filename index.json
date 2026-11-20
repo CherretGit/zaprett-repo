@@ -7,9 +7,9 @@
       "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/nfqws2test.json"
     },
     {
-      "id": "test2",
+      "id": "strategy_yt_alt_mts",
       "type": "nfqws2",
-      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/test2.json"
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/strategy_yt_alt_mts.json"
     },
     {
       "id": "tls_clienthello",
