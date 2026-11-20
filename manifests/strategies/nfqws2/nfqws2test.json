@@ -3,7 +3,7 @@
   "id": "nfqws2test",
   "name": "nfqws2test",
   "version": "0.0.1",
-  "author": "nfqws",
+  "author": "nfqws (портировал Rechevik)",
   "description": "Стратегия-[etubz",
   "dependencies": [
     "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/lua/zapret-antidpi.json",
