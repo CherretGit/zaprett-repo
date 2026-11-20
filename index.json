@@ -2,9 +2,9 @@
   "schema": 1,
   "items": [
     {
-      "id": "nfqws2test",
+      "id": "strategy_yt_and_other_mts",
       "type": "nfqws2",
-      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/nfqws2test.json"
+      "manifest": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/manifests/strategies/nfqws2/strategy_yt_and_other_mts.json"
     },
     {
       "id": "strategy_yt_alt_mts",
