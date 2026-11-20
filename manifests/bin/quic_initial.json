@@ -3,8 +3,8 @@
   "id": "quic_initial",
   "name": "quic_initial",
   "version": "1.0.0",
-  "author": "zaprett-devs",
-  "description": "Binary artifact: quic_initial",
+  "author": "bol-van",
+  "description": "quic_initial from zapret2",
   "dependencies": [],
   "artifact": {
     "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/bin/quic_initial.bin",
