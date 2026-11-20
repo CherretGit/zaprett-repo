@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "zapret-auto",
+  "name": "zapret-auto",
+  "version": "1.0.0",
+  "author": "bol-van",
+  "description": "zapret-auto from zapret2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/lua/zapret-auto.lua",
+    "sha256": "23a9b99a776d868d92f4cc0ee5110f5c1f12fe746620d9c0337022dbc2f52df0"
+  }
+}

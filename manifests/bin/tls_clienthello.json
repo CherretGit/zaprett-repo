@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "tls_clienthello",
+  "name": "tls_clienthello",
+  "version": "1.0.0",
+  "author": "bol-van",
+  "description": "tls_clienthello from zapret2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/bin/tls_clienthello.bin",
+    "sha256": "936c2bee4cfb80aa3c426b2dcbcc834b3fbcd1adb17172959dc569c73a14275c"
+  }
+}

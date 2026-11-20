@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "id": "quic_initial",
+  "name": "quic_initial",
+  "version": "1.0.0",
+  "author": "bol-van",
+  "description": "quic_initial from zapret2",
+  "dependencies": [],
+  "artifact": {
+    "url": "https://raw.githubusercontent.com/Rechevik/zaprett-repo/refs/heads/main/files/bin/quic_initial.bin",
+    "sha256": "f4589c57749f956bb30538197a521d7005f8b0a8723b4707e72405e51ddac50a"
+  }
+}
